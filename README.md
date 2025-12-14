@@ -1,4 +1,5 @@
 # Prayer Times
+![Pub Version](https://img.shields.io/pub/v/islamic_prayer_times?style=flat-square&link=https%3A%2F%2Fpub.dev%2Fpackages%2Fislamic_prayer_times)
 
 A comprehensive Islamic prayer times calculator for Flutter applications. This package calculates accurate prayer times (Fajr, Sunrise, Dhuhr, Asr, Maghrib, Isha) based on geographic coordinates and various calculation methods.
 

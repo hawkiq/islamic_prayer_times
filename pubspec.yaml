@@ -1,6 +1,5 @@
 name: islamic_prayer_times
-description: "A comprehensive Islamic prayer times calculator for Flutter. Calculate accurate prayer times using multiple calculation methods.
- Supports various juristic methods for Asr time calculation."
+description: "A comprehensive Islamic prayer times calculator for Flutter."
 version: 1.0.0
 homepage: https://github.com/hawkiq/islamic_prayer_times
 repository: https://github.com/hawkiq/islamic_prayer_times
