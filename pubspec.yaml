@@ -1,6 +1,6 @@
 name: islamic_prayer_times
 description: "A comprehensive Islamic prayer times calculator for Flutter."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/hawkiq/islamic_prayer_times
 repository: https://github.com/hawkiq/islamic_prayer_times
 issue_tracker: https://github.com/hawkiq/islamic_prayer_times/issues

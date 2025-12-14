@@ -6,3 +6,8 @@
 * DateTime and formatted string outputs
 * Customizable time formats and adjustments
 * High latitude support
+
+## 1.0.1
+
+* Updated example.
+* Updated README.
